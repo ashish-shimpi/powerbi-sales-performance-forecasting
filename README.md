@@ -34,8 +34,8 @@ An end-to-end Power BI Sales Performance Dashboard featuring time series forecas
 ## Key Business Insights
 ## Sales & Profit Performance
 
-- Total Sales: £1.6M
-- Total Profit: £175K
+- Total Sales: $1.6M
+- Total Profit: $175K
 - Clear upward trend observed in late 2020
 - Profit volatility highlights margin optimisation opportunities
 
